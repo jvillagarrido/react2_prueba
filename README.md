@@ -1,3 +1,1 @@
-# Template Basic Prueba React II
-
-- [Deploy](https://venerable-froyo-679f53.netlify.app/pizzas)
+Realicé alguno de los requerimientos. LA verdad es que me falta estudiar más...en clases entiendo bien, pero al hacer me complico jojojojo...ya un dia podré dominarlo mejor. muchas gracias por todo profe.
